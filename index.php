@@ -52,6 +52,8 @@ in 2009 I think? ( not working anymore - new-dmoz.lejer.ro)
 Blog.Lejer.Ro <br/>
 Lot of, that i don't feel like pointing it here.... or beeing closed 
 projects, as i been testing a lot of frameworks.
+<br />
+[[this is made for http://www.hostinger.ro/ hosting - git based ]]
 </div></div></div></div>
 </body>
 </html>
